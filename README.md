@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fadnavismehul
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning devops for machine learning
-- 📫 How to reach me http://bio.link/fadnavismehul
+- 👀 I’m interested in product analytics and generative AI
+- 📫 You can reach out to me at my personal <a href="https://mehulfadnavis.com/" target="_blank">website</a>
 
 <!---
 fadnavismehul/fadnavismehul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
