@@ -18,9 +18,6 @@ I'm a developer and product analyst based in Singapore, building tools for the A
 
 
 📍 **Singapore** • [mehulfadnavis.com](https://mehulfadnavis.com/)
-
----
-![Mehul's Stats](https://github-readme-stats.vercel.app/api?username=fadnavismehul&show_icons=true&theme=radical&hide_border=true)
 <!---
 fadnavismehul/fadnavismehul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
