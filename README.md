@@ -1,19 +1,22 @@
 # Hi, I'm Mehul! 👋
 
-I'm a developer and product analyst based in Singapore, building tools for the AI age. I love creating extensions that improve developer workflows and exploring data analytics.
+I'm a product builder based in Singapore, making tools for the AI age. I love creating extensions that improve developer workflows and exploring data analytics.
 
 ### 🚀 What I'm Building
-* **[SQL Preview](https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview)**: A Cursor extension / Claude Desktop data viewer acting as a collaborative tool for LLMs and Humans to work on data tasks.
-  
+* **[SQL Preview](https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview)**: Data analysis extension in Cursor / Claude Desktop for collaborative work between LLMs and Humans !
+  - Connects to Trino and works with Local Files like csv and parquet
+  - Built in MCP server with data preview capabilities, avoids overloading LLM context window
+  - SQL for everything, analyse local files as well as your databases using SQL
+  ---
   <p align="left">
-    <a href="https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview" target="_blank">
-      <img src="https://img.shields.io/badge/Install%20on-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Install in VS Code" />
-    </a>
+    <a href="https://open-vsx.org/extension/mehul/sql-preview" target="_blank">
+      <img src="https://img.shields.io/badge/Install%20in-Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Install in Cursor" />
+    </a>    
     </p>
     <p>
-    <a href="https://open-vsx.org/extension/mehul/sql-preview" target="_blank">
-      <img src="https://img.shields.io/badge/Install%20on-OpenVSX-purple?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Install in Cursor" />
-    </a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview" target="_blank">
+      <img src="https://img.shields.io/badge/Install%20in-VS%20Code-black?style=for-the-badge&logo=vscode&logoColor=white" alt="Install in VS Code" />
+    </a>      
   </p>
 
 
