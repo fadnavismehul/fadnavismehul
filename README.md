@@ -3,7 +3,7 @@
 I'm a developer and product analyst based in Singapore, building tools for the AI age. I love creating extensions that improve developer workflows and exploring data analytics.
 
 ### 🚀 What I'm Building
-* **[SQL Preview](https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview)**: A VS Code extension to preview SQL queries instantly.
+* **[SQL Preview](https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview)**: A Cursor extension / Claude Desktop data viewer acting as a collaborative tool for LLMs and Humans to work on data tasks.
   
   <p align="left">
     <a href="https://marketplace.visualstudio.com/items?itemName=mehul.sql-preview" target="_blank">
